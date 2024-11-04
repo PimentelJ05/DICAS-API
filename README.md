@@ -18,7 +18,7 @@ Além disso, irei disponibilizar alguns materiais de estudo incríveis para ajud
 
 | Título do Material                | Descrição                                     | Link                                 |
 |-----------------------------------|-----------------------------------------------|--------------------------------------|
-| O que é API (Application Programming Interface) e Como Usar API com Python? | Video do canal "Hashtag Progamação ensinado de forma clara e rápida os conceitos de uma API e exercício prático |([Vídeo](https://youtu.be/eel1OVIdfUw?si=1vhC0F_FHW_9gvwR) |
+| O que é API (Application Programming Interface) e Como Usar API com Python? | Video do canal "Hashtag Progamação ensinado de forma clara e rápida os conceitos de uma API e exercício prático |[Vídeo](https://youtu.be/eel1OVIdfUw?si=1vhC0F_FHW_9gvwR) |
 
 
 Sinta-se à vontade para explorar, contribuir e, principalmente, aprender! Estou sempre aberta a sugestões e feedbacks, então não hesite em deixar um comentário ou abrir uma issue. Caso surja alguma dúvida, é só entrar em contato; estou disponível para ajudar e trabalhar em conjunto.
