@@ -25,4 +25,4 @@ Sinta-se à vontade para explorar, contribuir e, principalmente, aprender! Estou
 
 ## [Vamos nos conectar no LinkedIn 😎](www.linkedin.com/in/juliacarlapimentel)
 
-## Vamos juntos desbravar o mundo das APIs! 🚀
+## Partiu desbravar o mundo das APIs?! 🚀
