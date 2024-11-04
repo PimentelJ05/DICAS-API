@@ -23,6 +23,7 @@ Além disso, irei disponibilizar alguns materiais de estudo incríveis para ajud
 
 Sinta-se à vontade para explorar, contribuir e, principalmente, aprender! Estou sempre aberta a sugestões e feedbacks, então não hesite em deixar um comentário ou abrir uma issue. Caso surja alguma dúvida, é só entrar em contato; estou disponível para ajudar e trabalhar em conjunto.
 
-## [Vamos nos conectar no LinkedIn 😎](www.linkedin.com/in/juliacarlapimentel)
+## [💙Vamos nos conectar no LinkedIn](www.linkedin.com/in/juliacarlapimentel)
+## [📷Me siga no instagram](https://www.instagram.com/websolutionsbyjulia___/profilecard/?igsh=MWhucDg1bDR4eHoyeA==)
 
 ## Partiu desbravar o mundo das APIs?! 🚀
