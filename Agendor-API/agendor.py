@@ -1,6 +1,6 @@
 import requests
 
-token = "1292a8bf-d7d2-4175-b1f1-27e3a1204b8c"
+token = ""
 base_url = "https://api.agendor.com.br/v3/people"
 headers = {
     "Authorization": f"Token {token}"
